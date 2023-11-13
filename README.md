@@ -1,6 +1,6 @@
 # INSTALLATION
 
-```shell
+```console
 pip install -r requirements.txt
 ```
 
@@ -174,3 +174,7 @@ pip install -r requirements.txt
 
 **_50- Win32_Win32_PhysicalMemorySpeed:_**
  - This class may provide information about the speed or clock frequency of the physical memory modules in the computer.
+
+# Donations Accepted:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ispique)
