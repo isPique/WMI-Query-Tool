@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 
 # About Script
-* This script provides a interface to explore and access various aspects of your system, making it easy to retrieve details about hardware, software, and other system parameters.
+* This script is a WMI query tool to explore and access different aspects of your system and retrieve information about hardware, software, and other system parameters.
 
 * Please make sure that the `queries.json` file is in the same directory where the current code is running.
 
